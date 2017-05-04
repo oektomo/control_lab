@@ -1,0 +1,27 @@
+Level Shifter using Op-Amp
+
+uController
+ADC usage
+-Control input
+-Potentiometer
+
+Downloader
+-ISP
+-4 PIN
+
+Voltage Regulator
+7805 or LM2596?
+
+Power indicator
++5
++15
+-15
+
+Power Header
++5
+0
+
+H-bridge source 5 V
+selectable voltage source
+
+
